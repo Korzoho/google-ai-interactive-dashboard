@@ -1,0 +1,6 @@
+{
+  "name": "Sales & Orders Analytics Dashboard",
+  "description": "Interactive data visualization dashboard for sales, products, orders, and payment insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
